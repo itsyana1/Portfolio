@@ -24,8 +24,8 @@ function Contact() {
 		setSending(true);
 		emailjs
 			.send(
-				"service_6mtuizk",
-				"template_xxa6gzr",
+				"service_qsy8f4i",
+				"template_lzmssh9",
 				{
 					from_name: form.name,
 					to_name: "Audrey",
@@ -33,7 +33,7 @@ function Contact() {
 					to_email: "dreycamaya01@gmail.com",
 					message: form.message,
 				},
-				"Zcc829UhiguVzPsA9"
+				"5YVWHqCBAR0GjM0j5"
 			)
 			.then(
 				() => {
