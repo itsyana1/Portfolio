@@ -182,7 +182,7 @@ const projects = [
     ],
     image: fib,
     openSource: false,
-    source_code_link: "",
+    source_code_link: "https://mapawit-com.onrender.com/",
   },
   {
     name: "Awesometodos",
@@ -240,7 +240,7 @@ const projects = [
     ],
     image: restro,
     openSource: false,
-    source_code_link: "",
+    source_code_link: "https://www.figma.com/design/RmOLsFG5ZL2jdGrAtpVkMV/SynC-Prototype?node-id=0-1&t=ssrUsxY8AHGvMgtl-1",
   },
 ];
 
