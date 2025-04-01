@@ -20,7 +20,7 @@ const Hero = () => {
 					<h1 className={`${styles.heroHeadText}  text-white`}>
 						Hi, I'm{" "}
 						<span className='animate-text bg-gradient-to-r from-teal-500 via-[#915eff] to-orange-500 bg-clip-text text-transparent'>
-							Audrey Margarette Camaya
+							Ruzlyn Kaw
 						</span>
 					</h1>
 					<p
