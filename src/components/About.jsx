@@ -49,12 +49,18 @@ const About = () => {
           className="text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
           <p>
-            Hi, I'm Audrey, a UI/UX Designer passionate about crafting intuitive,
-            user-centered digital experiences. I blend creativity with research to
-            design interfaces that are not only visually appealing but also
-            functional and accessible. With a keen eye for detail and a love for
-            solving problems, I turn complex ideas into seamless interactions
-            that users love.
+          Hi, I'm Audrey!
+
+          I'm a UI/UX Designer from Bugasong, Antique, passionate about crafting intuitive, user-centered digital experiences. 
+          Currently, I'm also a second-year BSIT student at Western Institute of Technology, 
+          where I’m expanding my technical skills to complement my design expertise.
+
+          I love exploring and trying new things, which fuels my creativity in design. My approach blends research, functionality,
+           and aesthetics to create interfaces that are not only visually appealing but also accessible and easy to use. 
+           With a keen eye for detail and a problem-solving mindset, I enjoy turning complex ideas into seamless, user-friendly interactions.
+
+          Always eager to learn, I thrive on challenges that push me to grow—whether in design, coding, or discovering new perspectives. 
+          Let’s connect and create meaningful digital experiences together!
           </p>
         </motion.div>
 
