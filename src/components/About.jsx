@@ -5,7 +5,7 @@ import { styles } from "../styles";
 import { services } from "../constants";
 import { SectionWrapper } from "../hoc";
 import { fadeIn, textVariant } from "../utils/motion";
-import profileImage from "../assets/profile-image.jpg"; // Update with your image path
+import profileImage from "../assets/NewProfile.png"; // Update with your image path
 
 const ServiceCard = ({ index, title, icon }) => {
   const tiltRef = useRef(null);

@@ -45,7 +45,7 @@ const ProjectCard = ({
 							<div
 								onClick={() =>
 									window.open(
-										"https://github.com/sahilxkhadka/resturant-website",
+										"https://github.com/itsyana1",
 										"_blank"
 									)
 								}

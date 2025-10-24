@@ -32,7 +32,7 @@ import live from './live.png';
 import restro from './restro.png';
 import snapchat from './snapchat.png';
 import twitter from './twitter.png';
-
+import MP from '.MP.png';
 import desktop from './desktop.png';
 import techMobile from './mobile-tech.png'
 
@@ -69,5 +69,6 @@ export {
   gitlab,
   abromart,
   desktop,
-  techMobile
+  techMobile,
+  MP
 };

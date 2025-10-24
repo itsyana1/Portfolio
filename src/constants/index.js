@@ -17,6 +17,7 @@ import {
   javascript,
   linkedin,
   mobile,
+  MP,
   reactjs,
   redux,
   restro,
@@ -126,10 +127,20 @@ const experiences = [
     company_name: "mapaWIT",
     icon: codedrops,
     iconBg: "#383E56",
-    date: "December 2024 - Present",
+    date: "December 2024 - April 2025",
     points: [
       "Created a human centered design using Figma",
       "Created an interactive map using Mappedin"
+    ],
+  },
+  {
+    title: "UX Designer",
+    company_name: "mapaWIT2.0",
+    icon: codedrops,
+    iconBg: "#383E56",
+    date: "June 2025 - Present",
+    points: [
+      "Created a human centered design using Figma",
     ],
   },
 ];
@@ -241,6 +252,40 @@ const projects = [
     image: restro,
     openSource: false,
     source_code_link: "https://www.figma.com/design/RmOLsFG5ZL2jdGrAtpVkMV/SynC-Prototype?node-id=0-1&t=ssrUsxY8AHGvMgtl-1",
+  },
+  {
+    name: "mapaWIT2.0",
+    description:
+      "The goal of the app is to help students efficiently manage their academic tasks and performance. Through features like viewing course schedules, attending online classes, tracking tasks and attendance, receiving notifications for reminders, and organizing notes, the app will empower students to stay organized, improve time management, and enhance their academic success.",
+    tags: [
+      {
+        name: "html",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "orange-text-gradient"
+      },
+      {
+        name: "mappedin",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "blender",
+        color: "violet-text-gradient",
+      },
+      {
+        name: "leaflet",
+        color: "white-text-gradient",
+      },
+    ],
+    image: MP,
+    openSource: false,
+    source_code_link: "https://www.figma.com/design/l2KgsVmG0GwxMNWUFuqAty/mapaWIT_V2?t=NDNhsJfpgGwVO6HC-1",
   },
 ];
 
