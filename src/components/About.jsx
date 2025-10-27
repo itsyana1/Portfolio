@@ -52,7 +52,7 @@ const About = () => {
           Hi, I'm Audrey!
 
           I'm a UI/UX Designer from Bugasong, Antique, passionate about crafting intuitive, user-centered digital experiences. 
-          Currently, I'm also a second-year BSIT student at Western Institute of Technology, 
+          Currently, I'm also a third-year BSIT student at Western Institute of Technology, 
           where I’m expanding my technical skills to complement my design expertise.
 
           I love exploring and trying new things, which fuels my creativity in design. My approach blends research, functionality,
