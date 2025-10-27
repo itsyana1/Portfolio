@@ -285,7 +285,7 @@ const projects = [
     ],
     image: MP,
     openSource: false,
-    source_code_link: "https://www.figma.com/design/l2KgsVmG0GwxMNWUFuqAty/mapaWIT_V2?t=NDNhsJfpgGwVO6HC-1",
+    source_code_link: "https://mapa-wit-2-0.vercel.app/",
   },
 ];
 
